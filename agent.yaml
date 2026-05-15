@@ -1,4 +1,4 @@
-spec_version: "0.1.0"
+spec_version: '0.1.0'
 name: everything-claude-code
 version: 2.0.0-rc.1
 description: "Initial gitagent export surface for ECC's shared skill catalog, governance, and identity. Native agents, commands, and hooks remain authoritative in the repository while manifest coverage expands."
@@ -99,6 +99,7 @@ skills:
   - logistics-exception-management
   - market-research
   - mcp-server-patterns
+  - mfm-orchestration
   - motion-ui
   - nanoclaw-repl
   - nextjs-turbopack
@@ -143,15 +144,28 @@ skills:
   - swift-actor-persistence
   - swift-concurrency-6-2
   - swift-protocol-di-testing
-  - swiftui-patterns
+  - test-driven-development
   - tdd-workflow
   - team-builder
+  - brainstorming
+  - dispatching-parallel-agents
+  - executing-plans
+  - finishing-a-development-branch
+  - receiving-code-review
+  - requesting-code-review
+  - subagent-driven-development
+  - systematic-debugging
+  - using-git-worktrees
+  - using-superpowers
+  - verification-before-completion
+  - writing-plans
+  - writing-skills
+  - ui-ux-pro-max
   - token-budget-advisor
   - verification-loop
   - video-editing
   - videodb
   - visa-doc-translate
-  - x-api
 commands:
   - aside
   - auto-update
